@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">History Application Assignment 1</string>
+    <string name="button1">GENERATE</string>
+    <string name="Text1">Enter Age</string>
+    <string name="text2">Enter:</string>
+    <string name="textview3" />
+    <string name="button2">Clear</string>
+    <string name="todo">TODO</string>
+    <string name="textView3">THE HISTORY APP</string>
+
+</resources>
